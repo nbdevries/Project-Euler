@@ -2,8 +2,9 @@ Project-Euler
 =============
 
 My personal attempt at Project Euler
+___
 
-Current progress:
 
-1 problem solved
-2 problems total
+  1 problem solved
+  
+  2 problems total
